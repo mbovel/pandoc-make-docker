@@ -1,2 +1,1 @@
-# pandoc-make
- 
+# Pandoc + Make Dockerfile
